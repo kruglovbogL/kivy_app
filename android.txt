@@ -1,0 +1,3 @@
+title=<Kassa>
+author=<Kruglovbog>
+orientation=<portrait|landscape>
